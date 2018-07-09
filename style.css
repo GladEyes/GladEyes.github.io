@@ -1,46 +1,42 @@
 
  body {
-  color: rgb(50,50,50);
-  background: rgb(245,245,245);
-  font-family: 'Open Sans', sans-serif;
-  font-size: 20px;
-  text-align: center;
-  margin: 0px;
+color: rgb(50,50,50);
+background: rgb(245,245,245);
+font-family: 'Open Sans', sans-serif;
+font-size: 20px;
+text-align: center;
+
 }
 
 h1 {
-  color: white;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 25px;
-  text-align: center;
+color: white;
+font-family: 'Montserrat', sans-serif;
+font-size: 25px;
+text-align: center;
 }
 
 h2 {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 30px;
+font-family: 'Montserrat', sans-serif;
+font-size: 30px;
 }
 
-#header {
-height:100px;
+.header {
+height:50px;
 color: orange;
 font-family: 'Montserrat', sans-serif;
-font-size: 25px;
+font-size: 21px;
 text-align: left;
-}
-
-#header img {
-  horizontal-align: middle;
 }
 
 #banner1 {
 background: linear-gradient(
  rgba(0, 0, 0, 0.30), 
  rgba(0, 0, 0, 0.30)
- ),url(Images/Landing.jpg);
+ ),url(images/Landing_junior.jpg);
 width: 100%;
 height: 500px;
 background-size: cover;
-padding: 100px 0px;
+padding: 150px 0px;
 text-align: center;
 color: white;
 font-size : 35px;
@@ -49,21 +45,43 @@ font-border:2px;
 
 #banner2 h2{
 color: orange;
-padding: 15px 0px;
+text-align: center;
+padding: 5px 5px;
+}
+
+#banner2 p{
+color: rgb(50,50,50);
+background: rgb(245,245,245);
+font-family: 'Open Sans', sans-serif;
+font-size: 22px;
+text-align: center;
 }
 
 .container {
-padding: 30px 0px;
+color: rgb(50,50,50);
+background: rgb(245,245,245);
+font-family: 'Open Sans', sans-serif;
+font-size: 20px;
+text-align: center;
+padding: 20px 20px;
+}
+
+#banner3 p {
+color: rgb(50,50,50);
+background: rgb(245,245,245);
+font-family: 'Open Sans', sans-serif;
+font-size: 22px;
+text-align: center;
 }
 
 #banner3 a {
-  text-decoration: none;
-  color: orange;
+text-decoration: none;
+color: orange;
 }
 
 #banner3 a:hover {
-  text-decoration: none;
-  color: purple;
+text-decoration: none;
+color: purple;
 }
 
 #container {
@@ -73,7 +91,9 @@ text-align: center;
 #pre-footer {
 color: orange;
 font-family: 'Montserrat', sans-serif;
-front-size: 30px;
+font-size: 30px;
+text-align: center;
+padding: 5px 5px;
 }
 
 #footer {
