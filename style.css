@@ -34,13 +34,17 @@ background: linear-gradient(
  rgba(0, 0, 0, 0.30)
  ),url(Images/Landing.jpg);
 width: 100%;
-height: 500px;
+height: 650px;
 background-size: cover;
 padding: 150px 0px;
 text-align: center;
 color: white;
 font-size : 35px;
 font-border:2px;
+}
+
+#banner1 a {
+font-size : 20px;
 }
 
 #banner2 h2{
