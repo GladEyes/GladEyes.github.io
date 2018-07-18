@@ -28,6 +28,14 @@ font-size: 21px;
 text-align: left;
 }
 
+.header > .row {
+  text-align: center;
+}
+
+.btn-switch-senior-junior {
+  margin-top: 8px;
+}
+
 #banner1 {
 background: linear-gradient(
  rgba(0, 0, 0, 0.30), 
