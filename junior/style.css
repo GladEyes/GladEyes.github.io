@@ -5,7 +5,6 @@ background: rgb(245,245,245);
 font-family: 'Open Sans', sans-serif;
 font-size: 20px;
 text-align: center;
-
 }
 
 h1 {
@@ -16,13 +15,15 @@ text-align: center;
 }
 
 h2 {
-font-family: 'Montserrat', sans-serif;
-font-size: 30px;
-}
+font-family: 'Helvetica', sans-serif;
+font-size: 40px;
+color: rgb(255, 189, 74);
+text-align: center;
+padding: 5px 5px;}
 
 .header {
 height:50px;
-color: orange;
+color: rgb(255, 189, 74);
 font-family: 'Montserrat', sans-serif;
 font-size: 21px;
 text-align: left;
@@ -48,15 +49,13 @@ padding: 300px 0px;
 text-align: center;
 color: white;
 font-size : 35px;
-font-border:2px;
 }
-
 #banner1 a {
-font-size : 20px;
+font-size : 25px;
 }
 
 #banner2 h2{
-color: orange;
+color: rgb(255, 189, 74);
 text-align: center;
 padding: 5px 5px;
 }
@@ -88,7 +87,7 @@ text-align: center;
 
 #banner3 a {
 text-decoration: none;
-color: orange;
+color: rgb(255, 189, 74);
 }
 
 #banner3 a:hover {
@@ -101,7 +100,7 @@ text-align: center;
 }
 
 #pre-footer {
-color: orange;
+color: rgb(255, 189, 74);
 font-family: 'Montserrat', sans-serif;
 font-size: 30px;
 text-align: center;
@@ -118,11 +117,11 @@ padding: 5px 5px;
 
 #footer a {
   text-decoration: none;
-  color: rgb(245,245,245);
+  color: rgb(23, 162, 184);
 }
 
 #footer a:hover {
   text-decoration: none;
   font-size: 10px;
-  color: orange;
+  color: rgb(255, 189, 74);
 }
