@@ -54,6 +54,10 @@ font-size : 35px;
 font-size : 25px;
 }
 
+#calltoaction a {
+font-size : 25px;
+}
+
 .banner2 h2{
 color: rgb(229, 55, 78);
 text-align: center;
