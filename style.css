@@ -99,8 +99,12 @@ padding: 50px 60px;
 background: rgb(255,255,255);
 }
 
+.valeurs {
+background: rgb(235,235,235);
+}
+
 #soutien {
-background: rgb(245,245,245);
+background: rgb(255,255,255);
 padding: 50px 30px;
 }
 
