@@ -25,7 +25,7 @@ padding: 5px 5px;}
 height:50px;
 color: rgb(255, 189, 74);
 font-family: 'Montserrat', sans-serif;
-font-size: 21px;
+font-size: 30px;
 text-align: left;
 }
 
@@ -95,8 +95,8 @@ text-align: center;
 padding: 50px 60px;
 }
 
-.valeurs {
-background: rgb(240,240,240);
+.témoignages {
+background: rgb(255,255,255);
 }
 
 #soutien {
