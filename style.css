@@ -99,6 +99,14 @@ padding: 50px 60px;
 background: rgb(255,255,255);
 }
 
+.témoignages img{
+width: 60%;
+}
+
+.témoignages p{
+font-size: 15px;
+}
+
 .valeurs {
 background: rgb(235,235,235);
 }
