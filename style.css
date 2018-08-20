@@ -72,11 +72,11 @@ font-size: 22px;
 text-align: center;
 }
 
-#hipster {
+#Mamie {
 background: linear-gradient(
  rgba(0, 0, 0, 0.30), 
  rgba(0, 0, 0, 0.30)
- ),url(Images/Cuisine_heureuse.jpg);
+ ),url(Images/Mamie_dessine.jpg);
 width: 100%;
 height: 650px;
 background-size: cover;
@@ -105,6 +105,12 @@ width: 100%;
 
 .témoignages p{
 font-size: 15px;
+}
+
+#Origine p{
+padding:30px;
+text-align:justify;
+
 }
 
 .valeurs {
