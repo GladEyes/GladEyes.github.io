@@ -14,21 +14,12 @@ font-size: 25px;
 text-align: center;
 }
 
-h3 {
+h2 {
 font-family: 'Helvetica', sans-serif;
 font-size: 30px;
-color: rgb(50, 50,50);
+color: rgb(255, 189, 74);
 text-align: center;
-padding: 5px 5px;
-}
-
-h4 {
-font-family: 'Helvetica', sans-serif;
-font-size: 30px;
-color: rgb(245,245,245);
-text-align: center;
-padding: 5px 5px;
-}
+padding: 5px 5px;}
 
 .header {
 height:50px;
@@ -50,7 +41,7 @@ text-align: left;
 background: linear-gradient(
  rgba(0, 0, 0, 0.30), 
  rgba(0, 0, 0, 0.30)
- ),url(Images/Mamie_cuisine.jpg);
+ ),url(Images/Mamie_dessine.jpg);
 width: 100%;
 height: 650px;
 background-size: cover;
