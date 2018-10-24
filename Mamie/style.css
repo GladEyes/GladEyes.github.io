@@ -79,6 +79,10 @@ font-size : 25px;
 font-size : 25px;
 }
 
+#FontionnementGP {
+background: rgb(252,247,239);
+}
+
 .banner2 h2{
 color: rgb(255, 189, 74);
 text-align: center;
@@ -107,6 +111,10 @@ width: 100%;
 
 .témoignages p{
 font-size: 15px;
+}
+
+.FonctionnementGP {
+background: rgb(252,247,239);
 }
 
 #Origine p{
