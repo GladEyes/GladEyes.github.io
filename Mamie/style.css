@@ -1,7 +1,7 @@
 
- body {
+body {
 color: rgb(50,50,50);
-background: rgb(245,245,245);
+background: rgb(255,255,255);
 font-family: 'Open Sans', sans-serif;
 font-size: 20px;
 text-align: center;
@@ -32,14 +32,25 @@ padding: 5px 5px;
 
 .header {
 height:50px;
+background: rgb(245,245,245);
 color: rgb(255, 189, 74);
 font-family: 'Montserrat', sans-serif;
-font-size: 30px;
+font-size: 20px;
 text-align: left;
 }
 
 .header > .row {
   text-align: center;
+}
+
+#nav {
+font-size: 15px;
+margin-top: 15px;
+}
+
+#nav a {
+text-decoration: none;
+color: rgb(50, 50, 50);
 }
 
 .btn-switch-senior-junior {
@@ -59,6 +70,7 @@ text-align: center;
 color: white;
 font-size : 40px;
 }
+
 #banner1 a {
 font-size : 25px;
 }
@@ -82,7 +94,7 @@ text-align: center;
 }
 
 .container {
-padding: 20px;
+padding: 15px;
 }
 
 .témoignages {
@@ -99,33 +111,70 @@ font-size: 15px;
 
 #Origine p{
 padding:30px;
+font-size: 17px;
+text-align:justify;
+}
+
+#Concept p{
+font-size: 17px;
+padding:30px;
+text-align:justify;
+}
+
+#grandsparents p{
+font-size: 17px;
+padding:30px;
 text-align:justify;
 }
 
 .valeurs {
-background: rgb(235,235,235);
+background: rgb(252,247,239);
 }
 
-#soutien {
+#partenaires {
 background: rgb(255,255,255);
 padding:5px;
 }
 
-#footer {
- background: rgb(50,50,50);
- color: rgb(245,245,245);
- font-size: 20px;
- padding: 30px;
+#reseaux {
+background: rgb(252,247,239);
+ color: rgb(255,189,74);
+ font-size: 30px;
  text-align: center;
+ padding: 5px;
  }
 
-#footer a {
+#reseaux a {
   text-decoration: none;
+  color: rgb(50, 50, 50);
+}
+
+#reseaux a:hover {
+  text-decoration: none;
+  font-size: 30px;
+  color: rgb(23, 162, 184);
+}
+
+#footer {
+ background: rgb(255,189,74);
+ color: rgb(50,50,50);
+ font-size: 20px;
+ text-align: center;
+}
+
+ #footer a {
+ text-decoration: none;
+ color: rgb(50, 50,50);
+}
+
+#footer p3 {
+  text-decoration: none;
+  font-size: 13px;
   color: rgb(23, 162, 184);
 }
 
 #footer a:hover {
   text-decoration: none;
-  font-size: 10px;
-  color: rgb(255, 189, 74);
+  font-size: 20px;
+  color: rgb(23, 162, 184);
 }
