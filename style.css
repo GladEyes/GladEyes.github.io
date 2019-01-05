@@ -141,6 +141,11 @@ padding:30px;
 text-align:justify;
 }
 
+#Tarifs .Prix{
+padding:>20px;
+border: 2px;
+}
+
 .valeurs {
 background: rgb(252,247,239);
 }
