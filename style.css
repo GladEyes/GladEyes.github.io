@@ -30,9 +30,18 @@ text-align: center;
 padding: 5px 5px;
 }
 
+h5 {
+font-family: 'Helvetica', sans-serif;
+font-size: 30px;
+color: rgb(255, 189, 74);
+text-align: center;
+padding: 5px 5px;
+}
+
+
 .header {
 height:50px;
-background: rgb(245,245,245);
+background: rgb(255,255,255);
 color: rgb(255, 189, 74);
 font-family: 'Montserrat', sans-serif;
 font-size: 20px;
@@ -41,11 +50,12 @@ text-align: left;
 
 .header > .row {
   text-align: center;
+  margin-top: 8px;
 }
 
 #nav {
-font-size: 15px;
-margin-top: 15px;
+font-size: 18px;
+margin-top: 10px;
 }
 
 #nav a {
@@ -69,6 +79,7 @@ padding: 300px 0px;
 text-align: center;
 color: white;
 font-size : 40px;
+margin-top: 10px;
 }
 
 #banner1 a {
