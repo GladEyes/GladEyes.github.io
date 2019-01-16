@@ -1,7 +1,7 @@
 
 body {
 color: rgb(50,50,50);
-background: rgb(255,255,255);
+background: rgb(252,247,239);
 font-family: 'Open Sans', sans-serif;
 font-size: 20px;
 text-align: center;
@@ -49,13 +49,11 @@ text-align: left;
 }
 
 .header > .row {
-  text-align: center;
-  margin-top: 8px;
+text-align: center;
 }
 
 #nav {
 font-size: 18px;
-margin-top: 10px;
 }
 
 #nav a {
@@ -79,7 +77,6 @@ padding: 300px 0px;
 text-align: center;
 color: white;
 font-size : 40px;
-margin-top: 10px;
 }
 
 #banner1 a {
@@ -98,30 +95,18 @@ padding: 5px 5px;
 
 #banner2 p{
 color: rgb(50,50,50);
-background: rgb(255,255,255);
+color: rgb(255, 189, 74);
 font-family: 'Open Sans', sans-serif;
 font-size: 22px;
 text-align: center;
 }
 
 .container {
-padding: 15px;
-}
-
-.témoignages {
-background: rgb(255,255,255);
-}
-
-.témoignages img{
-width: 100%;
-}
-
-.témoignages p{
-font-size: 15px;
+padding: 10px;
 }
 
 .Fonctionnement {
-background: rgb(255,255,255);
+background: rgb(252,247,239);
 }
 
 #Charte h2{
@@ -153,43 +138,28 @@ text-align:justify;
 }
 
 #Tarifs .Prix{
-padding:>20px;
+padding: 20px;
 border: 2px;
 }
 
 .valeurs {
-background: rgb(252,247,239);
+background: rgb(255,255,255);
 }
 
 #partenaires {
-background: rgb(255,255,255);
+background: rgb(252,247,239);
 padding:5px;
 }
 
-#reseaux {
-background: rgb(252,247,239);
- color: rgb(255,189,74);
- font-size: 30px;
- text-align: center;
- padding: 5px;
- }
-
-#reseaux a {
-  text-decoration: none;
-  color: rgb(50, 50, 50);
-}
-
-#reseaux a:hover {
-  text-decoration: none;
-  font-size: 30px;
-  color: rgb(23, 162, 184);
+#SAP {
+background: rgb(255,255,255);
+padding:5px;
 }
 
 #footer {
  background: rgb(255,189,74);
  color: rgb(50,50,50);
  font-size: 20px;
- text-align: center;
 }
 
  #footer a {
