@@ -38,6 +38,13 @@ text-align: center;
 padding: 5px 5px;
 }
 
+h6 {
+font-family: 'Helvetica', sans-serif;
+font-size: 35px;
+color: rgb(50, 50, 50);
+text-align: center;
+padding: 5px 5px;
+}
 
 .header {
 height:50px;
